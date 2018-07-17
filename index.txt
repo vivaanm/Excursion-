@@ -1,8 +1,11 @@
 <!DOCTYPE HTML>
 <HEAD> 
 <TITLE> EXCURSION </TITLE>
-<LINK HREF="*" TYPE="TEXT/CSS" REL="STYLESHEET">
+<LINK HREF="Excursion-/styles.css" TYPE="TEXT/CSS" REL="STYLESHEET">
 </HEAD>
 <BODY>
+<H1 ID="MAIN"> Discover hidden places in the world around you </H1>
+
+
 </BODY>
 </HTML>
