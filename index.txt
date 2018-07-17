@@ -1,13 +1,32 @@
 <!DOCTYPE HTML>
-<HEAD> 
+<HEAD>
 <TITLE> EXCURSION </TITLE>
 <LINK HREF="Excursion-/styles.css" TYPE="TEXT/CSS" REL="STYLESHEET">
 </HEAD>
 <BODY>
 <H1 ID="MAIN"> Discover hidden places in the world around you </H1>
-<A HREF="*" TARGET="_BLANK"> Download Excursion (Coming soon!) </A>
-
-
-
+<div id="link">
+<A HREF="*" id="link"> Download Excursion (Coming soon!) </A>
+</div>
+<div><video src="https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/videos/excursion.mp4, https://www.codecademy.com/courses/freelance1-u3/projects/f1-excursion?program_content_id=3ed6f64c9736ea1d2bef2fdd457c287f&program_id=e94805953262c652b1638ffe93c0753b" align="center"></video>
+</div>
+<br>
+<h1 ID="second"> YOUR PERSONAL TRAVEL GUIDE </h1>
+<div id="other">
+  <p>Excursion remembers places you like, and recommends new points of interest around you.</p>
+</div>
+<div id="picture">
+  <img src="https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg"/>
+</div>
+<div id="babe">
+  <img src="https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/phone.png"/>
+</div>
+<div id="last">
+  <h1> Coming soon for iphone and android </h1>
+</div>
+<div id="cray">
+<a href="#link"> Download Excursion (Coming soon!)</a>
+</div>
+<div id="right"> Excursion </div>
 </BODY>
 </HTML>
