@@ -5,6 +5,8 @@
 </HEAD>
 <BODY>
 <H1 ID="MAIN"> Discover hidden places in the world around you </H1>
+<A HREF="*" TARGET="_BLANK"> Download Excursion (Coming soon!) </A>
+
 
 
 </BODY>
